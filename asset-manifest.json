@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ink-theme/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ink-theme/static/js/main.eac279dd.chunk.js",
+    "main.js.map": "/ink-theme/static/js/main.eac279dd.chunk.js.map",
+    "runtime-main.js": "/ink-theme/static/js/runtime-main.ee089230.js",
+    "runtime-main.js.map": "/ink-theme/static/js/runtime-main.ee089230.js.map",
+    "static/js/2.afe8c8f1.chunk.js": "/ink-theme/static/js/2.afe8c8f1.chunk.js",
+    "static/js/2.afe8c8f1.chunk.js.map": "/ink-theme/static/js/2.afe8c8f1.chunk.js.map",
+    "index.html": "/ink-theme/index.html",
+    "precache-manifest.ec45a6270012d9ed715d58e59b3b84d7.js": "/ink-theme/precache-manifest.ec45a6270012d9ed715d58e59b3b84d7.js",
+    "service-worker.js": "/ink-theme/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/ink-theme/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.afe8c8f1.chunk.js.LICENSE.txt": "/ink-theme/static/js/2.afe8c8f1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ink-theme/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee089230.js",
+    "static/js/2.afe8c8f1.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.eac279dd.chunk.js"
+  ]
+}
