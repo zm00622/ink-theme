@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ink-theme/static/css/main.155b59e7.chunk.css",
-    "main.js": "/ink-theme/static/js/main.27f14d3e.chunk.js",
-    "main.js.map": "/ink-theme/static/js/main.27f14d3e.chunk.js.map",
+    "main.js": "/ink-theme/static/js/main.673c6f4d.chunk.js",
+    "main.js.map": "/ink-theme/static/js/main.673c6f4d.chunk.js.map",
     "runtime-main.js": "/ink-theme/static/js/runtime-main.ee089230.js",
     "runtime-main.js.map": "/ink-theme/static/js/runtime-main.ee089230.js.map",
     "static/js/2.46d06792.chunk.js": "/ink-theme/static/js/2.46d06792.chunk.js",
     "static/js/2.46d06792.chunk.js.map": "/ink-theme/static/js/2.46d06792.chunk.js.map",
     "index.html": "/ink-theme/index.html",
-    "precache-manifest.e6956f0695aa483d6af064fda5b24c6d.js": "/ink-theme/precache-manifest.e6956f0695aa483d6af064fda5b24c6d.js",
+    "precache-manifest.978b02e19e34253afefe2c35a6ada681.js": "/ink-theme/precache-manifest.978b02e19e34253afefe2c35a6ada681.js",
     "service-worker.js": "/ink-theme/service-worker.js",
     "static/css/main.155b59e7.chunk.css.map": "/ink-theme/static/css/main.155b59e7.chunk.css.map",
     "static/js/2.46d06792.chunk.js.LICENSE.txt": "/ink-theme/static/js/2.46d06792.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.ee089230.js",
     "static/js/2.46d06792.chunk.js",
     "static/css/main.155b59e7.chunk.css",
-    "static/js/main.27f14d3e.chunk.js"
+    "static/js/main.673c6f4d.chunk.js"
   ]
 }
